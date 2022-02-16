@@ -1,5 +1,5 @@
 body{
-  background-color: black;
+  background-color: white;
 }
 
 p{
@@ -26,10 +26,4 @@ color: ghostwhite;
 padding: 10px 20px;
   border: 1px solid #644666;
   font-size: 12px;
-}
-
-
-.camden-txt{
-  top: 16%;
-  left: 35%;
 }
