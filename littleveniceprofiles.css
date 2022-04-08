@@ -1,12 +1,3 @@
-@media (min-width: 700px) { ... }
-
-@media only screen and (min-width:1501px) {
-html, body {
-            margin-left:5%;
-            margin-right:5%;
-    }
-}
-
 body{
     background:rgb(255,255,255);
 
@@ -142,6 +133,7 @@ body{
 .component blockquote.quote {
     position: relative; 
     text-align: center;
+    left: 400;
     width: 80%;  /* create space for the quotes */
     color: #484748;
 }
