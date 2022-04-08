@@ -133,7 +133,7 @@ body{
 }
 
 .component blockquote.quote {
-    position: relative; 
+    position: absolute; 
     text-align: center;
     padding: 1rem 1.2rem;
     width: 80%;  /* create space for the quotes */
