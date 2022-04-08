@@ -131,9 +131,11 @@ body{
 }
 
 .component blockquote.quote {
-    position: relative; 
+    position: absolute; 
+    background-position: 34% 0px;
+    left: 500px;
     text-align: center;
-    width: 80%;  /* create space for the quotes */
+    width: 40%;  /* create space for the quotes */
     color: #484748;
 }
 
