@@ -1,12 +1,3 @@
-
-body {
-  background-image: url('camdenbackground.JPG');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;    
-}
-
-
 p{
   font-family: 'Kiwi Maru', serif;
 font-weight: 300;
